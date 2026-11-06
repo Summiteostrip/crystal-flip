@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Customer and installation support
+    url: https://t.me/CrystalFlip_bot
+    about: Use the official bot for access, installation, subscriptions, and private support.
+  - name: Security reports
+    url: https://t.me/CrystalFlip_bot
+    about: Report vulnerabilities privately and never include secrets.
