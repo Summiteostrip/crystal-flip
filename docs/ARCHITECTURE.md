@@ -61,7 +61,7 @@ The official Telegram bot handles access, subscription management, application d
 
 ## Repository Boundary
 
-This repository is a private product-documentation space. It intentionally excludes:
+This repository is a public product-documentation space. It intentionally excludes:
 
 - application and server source code;
 - private API credentials and access tokens;

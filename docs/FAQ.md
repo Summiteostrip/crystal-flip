@@ -6,7 +6,7 @@ Crystal Flip is a proprietary real-time research platform for newly launched tok
 
 ## Is Crystal Flip open source?
 
-No. The software, scoring implementation, server code, and internal algorithms are proprietary. This private repository contains product documentation and official visual materials.
+No. The software, scoring implementation, server code, and internal algorithms are proprietary. This public documentation repository contains product information and official visual materials, not the software's source code.
 
 ## Which networks are supported?
 
