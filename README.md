@@ -1,6 +1,10 @@
-# Crystal Flip
+<p align="center">
+  <img src="assets/crystal-avatar.jpg" width="120" alt="Crystal Flip logo">
+</p>
 
-**Real-time market intelligence for early-stage token launches.**
+<h1 align="center">Crystal Flip</h1>
+
+<p align="center"><strong>Real-time market intelligence for early-stage token launches.</strong></p>
 
 Crystal Flip is a proprietary desktop analytics platform for discovering, evaluating, and tracking newly launched tokens. It combines continuous market scanning, developer and community history, social intelligence, configurable filters, and automated coin opening in one workspace.
 
@@ -23,6 +27,12 @@ New token launches move quickly, and a chart alone rarely tells the full story. 
 - Does the launch satisfy the user's custom quality filters?
 
 The platform continuously collects public market and social data, maintains historical profiles, and surfaces matching opportunities in real time.
+
+## Product Preview
+
+![Crystal Flip 3.0 dashboard](assets/post-154.jpg)
+
+*Crystal Flip 3.0: real-time detections, scoring, filtering, developer analytics, and market context.*
 
 ## Core Capabilities
 
@@ -130,6 +140,7 @@ Planned capabilities and release timing may change. This repository documents th
 - [Conceptual Product Architecture](docs/ARCHITECTURE.md)
 - [Getting Started](docs/GETTING_STARTED.md)
 - [Risk and Data Limitations](docs/RISK_AND_LIMITATIONS.md)
+- [Media Gallery](docs/MEDIA_GALLERY.md)
 
 ## Proprietary Software
 
