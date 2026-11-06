@@ -1,0 +1,19 @@
+# Local environments and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and builds
+node_modules/
+dist/
+build/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
