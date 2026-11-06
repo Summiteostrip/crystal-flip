@@ -139,8 +139,14 @@ Planned capabilities and release timing may change. This repository documents th
 - [Features and Filters](docs/FEATURES.md)
 - [Conceptual Product Architecture](docs/ARCHITECTURE.md)
 - [Getting Started](docs/GETTING_STARTED.md)
-- [Risk and Data Limitations](docs/RISK_AND_LIMITATIONS.md)
+- [Frequently Asked Questions](docs/FAQ.md)
+- [Product Direction](docs/ROADMAP.md)
+- [Brand and Press Kit](docs/BRAND.md)
 - [Media Gallery](docs/MEDIA_GALLERY.md)
+- [Risk and Data Limitations](docs/RISK_AND_LIMITATIONS.md)
+- [Changelog](CHANGELOG.md)
+- [Security Policy](SECURITY.md)
+- [Support](SUPPORT.md)
 
 ## Proprietary Software
 
